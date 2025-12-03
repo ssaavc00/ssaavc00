@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm ssaavc00</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <a href="https://github.com/ssaavc00">
@@ -15,7 +15,7 @@
 
 ---
 
-## Descriiption
+## Description
 
 I'm a Computer Science student at the University of León.
 
