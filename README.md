@@ -68,12 +68,15 @@
   <a href="https://github.com/ssaavc00">
     <img src="https://img.shields.io/badge/GitHub-ssaavc00-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <!-- Update with your actual email -->
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <!-- Update with your LinkedIn profile URL -->
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- Update with your Twitter handle URL -->
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -83,6 +86,7 @@
 
 ## 💼 Featured Projects
 
+<!-- Update these with links to your actual repositories -->
 Here are some of my notable projects:
 
 - **[Project 1](#)** - Description of your first project
