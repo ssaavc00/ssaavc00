@@ -23,15 +23,7 @@ I'm a Computer Science student at the University of León.
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=007396" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC" />
-</p>
+https://skillicons.dev/icons?i=python,java,git,vscode,c,html,css,js
 
 ---
 
