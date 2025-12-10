@@ -23,7 +23,7 @@ I'm a Computer Science student at the University of León.
 
 ## 🛠️ Technologies & Tools
 
-https://skillicons.dev/icons?i=python,java,git,vscode,c,html,css,js
+![Used Technologies](https://skillicons.dev/icons?i=python,java,git,vscode,c,html,css,js)
 
 ---
 
